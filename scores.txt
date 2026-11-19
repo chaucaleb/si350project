@@ -1,0 +1,391 @@
+username	chapter	score	autofail
+m308724	Chapter 1	60	no
+m308724	Chapter 2	80	no
+m308724	Chapter 3	84	no
+m308724	Chapter 4	90	no
+m308724	Chapter 5	81	no
+m308724	Chapter 6	1	no
+m308724	Chapter 7		no
+m308724	Chapter 8		no
+m308724	Chapter 9		no
+m308724	Chapter 10		no
+m308724	Chapter 11		no
+m308724	Chapter 12		no
+m308724	Final		no
+m309028	Chapter 1	88	no
+m309028	Chapter 2	95	no
+m309028	Chapter 3	96	no
+m309028	Chapter 4	88	no
+m309028	Chapter 5	105	yes
+m309028	Chapter 6	1	no
+m309028	Chapter 7		no
+m309028	Chapter 8		no
+m309028	Chapter 9		no
+m309028	Chapter 10		no
+m309028	Chapter 11		no
+m309028	Chapter 12		no
+m309028	Final		no
+m301262	Chapter 1	87	no
+m301262	Chapter 2	80	no
+m301262	Chapter 3	76	no
+m301262	Chapter 4	78	no
+m301262	Chapter 5	80	no
+m301262	Chapter 6		yes
+m301262	Chapter 7		no
+m301262	Chapter 8		no
+m301262	Chapter 9		no
+m301262	Chapter 10		no
+m301262	Chapter 11		no
+m301262	Chapter 12		no
+m301262	Final		no
+m301045	Chapter 1	84	no
+m301045	Chapter 2	85	no
+m301045	Chapter 3	98	no
+m301045	Chapter 4	67	no
+m301045	Chapter 5	87	no
+m301045	Chapter 6		no
+m301045	Chapter 7		no
+m301045	Chapter 8		no
+m301045	Chapter 9		no
+m301045	Chapter 10		no
+m301045	Chapter 11		no
+m301045	Chapter 12		no
+m301045	Final		no
+m303992	Chapter 1	87	no
+m303992	Chapter 2	88	no
+m303992	Chapter 3	89	no
+m303992	Chapter 4	96	no
+m303992	Chapter 5	71	no
+m303992	Chapter 6		no
+m303992	Chapter 7		no
+m303992	Chapter 8		no
+m303992	Chapter 9		no
+m303992	Chapter 10		no
+m303992	Chapter 11		no
+m303992	Chapter 12		no
+m303992	Final		no
+m304717	Chapter 1	82	no
+m304717	Chapter 2	95	no
+m304717	Chapter 3	86	no
+m304717	Chapter 4	80	no
+m304717	Chapter 5	94	no
+m304717	Chapter 6		no
+m304717	Chapter 7		no
+m304717	Chapter 8		no
+m304717	Chapter 9		no
+m304717	Chapter 10		no
+m304717	Chapter 11		no
+m304717	Chapter 12		no
+m304717	Final		no
+m307167	Chapter 1	69	no
+m307167	Chapter 2	90	no
+m307167	Chapter 3	86	no
+m307167	Chapter 4	93	no
+m307167	Chapter 5	90	no
+m307167	Chapter 6		no
+m307167	Chapter 7		no
+m307167	Chapter 8		no
+m307167	Chapter 9		no
+m307167	Chapter 10		no
+m307167	Chapter 11		no
+m307167	Chapter 12		no
+m307167	Final		no
+m300291	Chapter 1	73	no
+m300291	Chapter 2	84	no
+m300291	Chapter 3	79	no
+m300291	Chapter 4	105	no
+m300291	Chapter 5	105	no
+m300291	Chapter 6		no
+m300291	Chapter 7		no
+m300291	Chapter 8		no
+m300291	Chapter 9		no
+m300291	Chapter 10		no
+m300291	Chapter 11		no
+m300291	Chapter 12		no
+m300291	Final		no
+m308305	Chapter 1	75	no
+m308305	Chapter 2	89	no
+m308305	Chapter 3	80	no
+m308305	Chapter 4	104	no
+m308305	Chapter 5	90	no
+m308305	Chapter 6		no
+m308305	Chapter 7		no
+m308305	Chapter 8		no
+m308305	Chapter 9		no
+m308305	Chapter 10		no
+m308305	Chapter 11		no
+m308305	Chapter 12		no
+m308305	Final		no
+m308971	Chapter 1	81	no
+m308971	Chapter 2	101	no
+m308971	Chapter 3	98	no
+m308971	Chapter 4	88	no
+m308971	Chapter 5	97	no
+m308971	Chapter 6		no
+m308971	Chapter 7		no
+m308971	Chapter 8		no
+m308971	Chapter 9		no
+m308971	Chapter 10		no
+m308971	Chapter 11		no
+m308971	Chapter 12		no
+m308971	Final		no
+m301932	Chapter 1	45	no
+m301932	Chapter 2	61	no
+m301932	Chapter 3	77	no
+m301932	Chapter 4	91	no
+m301932	Chapter 5	75	no
+m301932	Chapter 6		no
+m301932	Chapter 7		no
+m301932	Chapter 8		no
+m301932	Chapter 9		no
+m301932	Chapter 10		no
+m301932	Chapter 11		no
+m301932	Chapter 12		no
+m301932	Final		no
+m300742	Chapter 1	103	no
+m300742	Chapter 2	75	no
+m300742	Chapter 3	96	no
+m300742	Chapter 4	87	no
+m300742	Chapter 5	79	no
+m300742	Chapter 6		no
+m300742	Chapter 7		no
+m300742	Chapter 8		no
+m300742	Chapter 9		no
+m300742	Chapter 10		no
+m300742	Chapter 11		no
+m300742	Chapter 12		no
+m300742	Final		no
+m302746	Chapter 1	83	no
+m302746	Chapter 2	80	no
+m302746	Chapter 3	82	no
+m302746	Chapter 4	81	no
+m302746	Chapter 5	78	no
+m302746	Chapter 6		no
+m302746	Chapter 7		no
+m302746	Chapter 8		no
+m302746	Chapter 9		no
+m302746	Chapter 10		no
+m302746	Chapter 11		no
+m302746	Chapter 12		no
+m302746	Final		no
+m306439	Chapter 1	105	no
+m306439	Chapter 2	82	no
+m306439	Chapter 3	84	no
+m306439	Chapter 4	76	no
+m306439	Chapter 5	65	no
+m306439	Chapter 6		no
+m306439	Chapter 7		no
+m306439	Chapter 8		no
+m306439	Chapter 9		no
+m306439	Chapter 10		no
+m306439	Chapter 11		no
+m306439	Chapter 12		no
+m306439	Final		no
+m301129	Chapter 1	85	no
+m301129	Chapter 2	75	no
+m301129	Chapter 3	102	no
+m301129	Chapter 4	69	no
+m301129	Chapter 5	100	no
+m301129	Chapter 6		no
+m301129	Chapter 7		no
+m301129	Chapter 8		no
+m301129	Chapter 9		no
+m301129	Chapter 10		no
+m301129	Chapter 11		no
+m301129	Chapter 12		no
+m301129	Final		no
+m308577	Chapter 1	90	no
+m308577	Chapter 2	93	no
+m308577	Chapter 3	77	no
+m308577	Chapter 4	77	no
+m308577	Chapter 5	61	no
+m308577	Chapter 6		no
+m308577	Chapter 7		no
+m308577	Chapter 8		no
+m308577	Chapter 9		no
+m308577	Chapter 10		no
+m308577	Chapter 11		no
+m308577	Chapter 12		no
+m308577	Final		no
+m308832	Chapter 1	79	no
+m308832	Chapter 2	78	no
+m308832	Chapter 3	77	no
+m308832	Chapter 4	72	no
+m308832	Chapter 5	76	no
+m308832	Chapter 6		no
+m308832	Chapter 7		no
+m308832	Chapter 8		no
+m308832	Chapter 9		no
+m308832	Chapter 10		no
+m308832	Chapter 11		no
+m308832	Chapter 12		no
+m308832	Final		no
+m306398	Chapter 1	76	no
+m306398	Chapter 2	88	no
+m306398	Chapter 3	69	no
+m306398	Chapter 4	52	no
+m306398	Chapter 5	92	no
+m306398	Chapter 6		no
+m306398	Chapter 7		no
+m306398	Chapter 8		no
+m306398	Chapter 9		no
+m306398	Chapter 10		no
+m306398	Chapter 11		no
+m306398	Chapter 12		no
+m306398	Final		no
+m305308	Chapter 1	90	no
+m305308	Chapter 2	105	no
+m305308	Chapter 3	96	no
+m305308	Chapter 4	90	no
+m305308	Chapter 5	66	no
+m305308	Chapter 6		no
+m305308	Chapter 7		no
+m305308	Chapter 8		no
+m305308	Chapter 9		no
+m305308	Chapter 10		no
+m305308	Chapter 11		no
+m305308	Chapter 12		no
+m305308	Final		no
+m307892	Chapter 1	81	no
+m307892	Chapter 2	84	no
+m307892	Chapter 3	105	no
+m307892	Chapter 4	74	no
+m307892	Chapter 5	93	no
+m307892	Chapter 6		no
+m307892	Chapter 7		no
+m307892	Chapter 8		no
+m307892	Chapter 9		no
+m307892	Chapter 10		no
+m307892	Chapter 11		no
+m307892	Chapter 12		no
+m307892	Final		no
+m307422	Chapter 1	81	no
+m307422	Chapter 2	75	no
+m307422	Chapter 3	85	no
+m307422	Chapter 4	91	no
+m307422	Chapter 5	61	no
+m307422	Chapter 6		no
+m307422	Chapter 7		no
+m307422	Chapter 8		no
+m307422	Chapter 9		no
+m307422	Chapter 10		no
+m307422	Chapter 11		no
+m307422	Chapter 12		no
+m307422	Final		no
+m304429	Chapter 1	90	no
+m304429	Chapter 2	66	no
+m304429	Chapter 3	90	no
+m304429	Chapter 4	79	no
+m304429	Chapter 5	67	no
+m304429	Chapter 6		no
+m304429	Chapter 7		no
+m304429	Chapter 8		no
+m304429	Chapter 9		no
+m304429	Chapter 10		no
+m304429	Chapter 11		no
+m304429	Chapter 12		no
+m304429	Final		no
+m304837	Chapter 1	83	no
+m304837	Chapter 2	64	no
+m304837	Chapter 3	90	no
+m304837	Chapter 4	83	no
+m304837	Chapter 5	69	no
+m304837	Chapter 6		no
+m304837	Chapter 7		no
+m304837	Chapter 8		no
+m304837	Chapter 9		no
+m304837	Chapter 10		no
+m304837	Chapter 11		no
+m304837	Chapter 12		no
+m304837	Final		no
+m309478	Chapter 1	79	no
+m309478	Chapter 2	75	no
+m309478	Chapter 3	92	no
+m309478	Chapter 4	90	no
+m309478	Chapter 5	88	no
+m309478	Chapter 6		no
+m309478	Chapter 7		no
+m309478	Chapter 8		no
+m309478	Chapter 9		no
+m309478	Chapter 10		no
+m309478	Chapter 11		no
+m309478	Chapter 12		no
+m309478	Final		no
+m305867	Chapter 1	94	no
+m305867	Chapter 2	80	no
+m305867	Chapter 3	79	no
+m305867	Chapter 4	88	no
+m305867	Chapter 5	74	no
+m305867	Chapter 6		no
+m305867	Chapter 7		no
+m305867	Chapter 8		no
+m305867	Chapter 9		no
+m305867	Chapter 10		no
+m305867	Chapter 11		no
+m305867	Chapter 12		no
+m305867	Final		no
+m304133	Chapter 1	70	no
+m304133	Chapter 2	105	no
+m304133	Chapter 3	89	no
+m304133	Chapter 4	80	no
+m304133	Chapter 5	84	no
+m304133	Chapter 6		no
+m304133	Chapter 7		no
+m304133	Chapter 8		no
+m304133	Chapter 9		no
+m304133	Chapter 10		no
+m304133	Chapter 11		no
+m304133	Chapter 12		no
+m304133	Final		no
+m308340	Chapter 1	100	no
+m308340	Chapter 2	61	no
+m308340	Chapter 3	79	no
+m308340	Chapter 4	67	no
+m308340	Chapter 5	96	no
+m308340	Chapter 6		no
+m308340	Chapter 7		no
+m308340	Chapter 8		no
+m308340	Chapter 9		no
+m308340	Chapter 10		no
+m308340	Chapter 11		no
+m308340	Chapter 12		no
+m308340	Final		no
+m305358	Chapter 1	78	no
+m305358	Chapter 2	94	no
+m305358	Chapter 3	87	no
+m305358	Chapter 4	100	no
+m305358	Chapter 5	66	no
+m305358	Chapter 6		no
+m305358	Chapter 7		no
+m305358	Chapter 8		no
+m305358	Chapter 9		no
+m305358	Chapter 10		no
+m305358	Chapter 11		no
+m305358	Chapter 12		no
+m305358	Final		no
+m301951	Chapter 1	80	no
+m301951	Chapter 2	76	no
+m301951	Chapter 3	76	no
+m301951	Chapter 4	61	no
+m301951	Chapter 5	71	no
+m301951	Chapter 6		no
+m301951	Chapter 7		no
+m301951	Chapter 8		no
+m301951	Chapter 9		no
+m301951	Chapter 10		no
+m301951	Chapter 11		no
+m301951	Chapter 12		no
+m301951	Final		no
+m306044	Chapter 1	98	no
+m306044	Chapter 2	91	no
+m306044	Chapter 3	78	no
+m306044	Chapter 4	79	no
+m306044	Chapter 5	76	no
+m306044	Chapter 6		no
+m306044	Chapter 7		no
+m306044	Chapter 8		no
+m306044	Chapter 9		no
+m306044	Chapter 10		no
+m306044	Chapter 11		no
+m306044	Chapter 12		no
+m306044	Final		no
